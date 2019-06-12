@@ -1,0 +1,4 @@
+wpu coba
+saya ingin mencoba belajar Git sekali seminggu
+membuat file git script di git hub
+mencoba belajar database
